@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Coline 👋
+
+I'm currently learning programming at @TheHackingProject, a 24 weeks long coding bootcamp (Ruby, Rails, JS, React)
 
 <!--
 **colinebrlt/colinebrlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
